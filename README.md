@@ -43,11 +43,7 @@ int main() {
     return 0;
 }
 ```
-o/p:
-
-
-
-
+o/p
 
 Nested if else
 
@@ -81,9 +77,6 @@ int main() {
 ```
 
 o/p:
-
-
-
 else if:
 ```
 #include <iostream>
@@ -107,9 +100,6 @@ int main() {
 }
 ```
 o/p:
-
-
-
 
 break
 ```
