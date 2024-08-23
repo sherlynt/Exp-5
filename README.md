@@ -43,7 +43,9 @@ int main() {
     return 0;
 }
 ```
-o/p
+o/p:  ![image](https://github.com/user-attachments/assets/70a48ea6-b7b6-4242-aaa6-2330d1261acb)
+
+
 
 Nested if else
 
@@ -76,7 +78,10 @@ int main() {
 }
 ```
 
-o/p:
+o/p:  ![image](https://github.com/user-attachments/assets/503978e2-1f8c-4bf1-81ac-740cc2d3e297)
+
+
+
 else if:
 ```
 #include <iostream>
@@ -99,7 +104,8 @@ int main() {
     return 0;
 }
 ```
-o/p:
+o/p: ![image](https://github.com/user-attachments/assets/c2c99e75-3221-4023-98f7-c4bcf3bb6ac2)
+
 
 break
 ```
@@ -139,8 +145,7 @@ cout<<"Days of the week";
 return 0;
 }
 ```
-o/p:
-![image](https://github.com/user-attachments/assets/a8142e16-4808-4585-9607-c62ff5c95f0a)
+o/p: ![image](https://github.com/user-attachments/assets/e3dc855d-0f96-456a-a6eb-87c96aae5709)
 
 
 default 
@@ -181,8 +186,8 @@ cout<<"Days of the week";
 return 0;
 }
 ```
-o/p:
-![image](https://github.com/user-attachments/assets/f616c5bc-16eb-45f6-9ad3-34df1b395e54)
+o/p: ![image](https://github.com/user-attachments/assets/24d28658-1870-4a91-b8df-ebe53b08d738)
+
 
 
 break_calculator:
@@ -223,8 +228,7 @@ int main()
     return 0;
 }
 ```
-o/p:
-
+o/p: ![image](https://github.com/user-attachments/assets/19cc0af3-f5ce-4b3b-9147-39318ba290a2)
 
 
 CONCLUSION:
